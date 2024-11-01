@@ -1,0 +1,18 @@
+stakeholder
+1. admain
+2. user
+
+
+admain functionalities
+1. categories 
+2. sub catagories
+3. can see all event
+4.can see all users 
+5 see analytics of the app
+6. see all communities 
+
+user functionalities 
+1. sign in / sign up
+2. can join event according to location
+3. 
+
