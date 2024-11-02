@@ -1,3 +1,7 @@
+(web and app)
+
+
+
 stakeholder
 1. admain
 2. user
@@ -14,5 +18,12 @@ admain functionalities
 user functionalities 
 1. sign in / sign up
 2. can join event according to location
-3. 
+3. can explore event 
+4. post and comment
 
+
+nextjs (f/b)
+mongodp (database)
+tailwind css (css)
+shadcn  (labrary)
+postman (api test)
